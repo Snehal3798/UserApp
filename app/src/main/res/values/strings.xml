@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="my_retrofit_basic_application">my_retrofit_basic_application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="s_pref_file">snehal.adhav.myretrofitbasicapplication.s_preference_file</string>
+    <string name="s_pref_login_status">snehal.adhav.myretrofitbasicapplication.s_preference_login_status</string>
+    <string name="s_pref_login_name">s_preference_login_name</string>
+    <string name="s_pref_login_email">s_preference_login_email</string>
+    <string name="s_pref_login_date">sh_preference_date</string>
+</resources>
